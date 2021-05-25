@@ -48,8 +48,8 @@ Required Capstone Material:
 Other information we've compiled:
 
 - What lectures will the instructors give during capstone?
-- [Recommended Reflection Exercise](reflections.md)
-- [Useful tutorial sites](tutorial-sites.md)
+- [Recommended Reflection Exercise](../project/reflections.md)
+- [Useful tutorial sites](../project/tutorial-sites.md)
 
 ## Capstone Requirements
 
