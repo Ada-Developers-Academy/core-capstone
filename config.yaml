@@ -1,0 +1,86 @@
+---
+Standards:
+  -
+    Title: Capstone Overview
+    Description: "Overview, Tech Stack Examples, Brainstorming, Tutorial Sites, Research Activity"
+    UID: w7RhPU
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 2c8d4b73-0b1c-4072-8db5-1da85bcd2f01
+        Path: /overview/overview.md
+      -
+        Type: Lesson
+        UID: d8cae571-8e26-4f83-9491-c27ce74d5fae
+        Path: /overview/advice-from-staff.md
+      -
+        Type: Lesson
+        UID: 4dcf46e7-8b14-4ffa-a968-d99d0b30b14d
+        Path: /overview/advice-from-alumni.md
+      -
+        Type: Lesson
+        UID: e7a170f1-1d36-4e95-99b1-cb90cf161479
+        Path: /overview/tech-stacks.md    
+      -
+        Type: Lesson
+        UID: 89ed3730-ecf9-46ce-bc82-eec96cb75e51
+        Path: /overview/tech-stack-examples.md
+      -
+        Type: Lesson
+        UID: 4034e39b-b978-414f-922a-c674d1c5e5e0
+        Path: /overview/research-activity.md
+  -
+    Title: Capstone Concept
+    Description: "Capstone Concept Submission"
+    UID: dac0902f-6d6f-4a27-8b81-cfa94ee271fe
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 5fae59a1-82e0-47cd-9da6-9dcf3d2c7989
+        Path: /concept/capstone-concept-template.md
+      -
+        Type: Checkpoint
+        UID: fc7f5574-f014-47d1-bed1-8cc6a3164ae4
+        Path: /concept/capstone-concept.checkpoint.md
+  -
+    Title: Proposal
+    Description: "Capstone Project Proposal"
+    UID: c75d298c-3e0a-409e-a0e5-24c191a7be22
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 09853b18-2199-4eca-a637-c225b27d8996
+        Path: /proposal/capstone-project-proposal.md
+  -
+    Title: Project
+    Description: "Logistics, Accountability Groups, Tutorial Sites, Presentation & Reflections"
+    UID: a23e7381-3256-4390-9bf4-4c885aaec2bf
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 40b1735f-32b4-43d2-9a51-e15a587b4ed8
+        Path: /project/logistics.md
+      -
+        Type: Lesson
+        UID: e4e72330-3999-4906-bd1b-34ae80311c31
+        Path: /project/accountability-groups.md
+      -
+        Type: Lesson
+        UID: 847ecc52-aac7-439c-b824-1e940529ff3a
+        Path: /project/tutorial-sites.md
+      -
+        Type: Checkpoint
+        UID: 5330a89b-8459-45f6-baa3-a6d8f85637f4
+        Path: /project/presentation-submission.checkpoint.md
+      -
+        Type: Lesson
+        UID: 9b5e90a1-c714-41e8-9285-2a474c20bf14
+        Path: /project/reflections.md
