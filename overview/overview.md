@@ -14,16 +14,16 @@ In the capstone project we will...
 ## Important Dates
 
 - July 2nd - Submit 1-3 Capstone Concepts
-  - [Due: Capstone Concepts (at least 1)](../capstone-concept/capstone-concept.checkpoint.md)
+  - [Due: Capstone Concepts (at least 1)](../concept/capstone-concept.checkpoint.md)
 - July 5th - 16th
   - Instructors will provide feedback on capstone conecpts
   - 1:1 Meetings will discuss the captone project
-- July 22nd - [Due: Capstone Project Proposal](../capstone-proposal/capstone-proposal.md)
+- July 22nd - [Due: Capstone Project Proposal](../proposal/capstone-project-proposal.md)
 - July 26th - Capstones Begin
   - Week 1 begins with technology research and tutorial practice
 - August 17th 12pm - Code Freeze
 - August 19th - Presentation Submission Due
-- August 19th & 20th - [Capstone Presentations](../capstone-process/accountability-groups.md/capstone-presentation.md)
+- August 19th & 20th - [Capstone Presentations](../project/presentation-submission.checkpoint.md)
 
 ## What's in This Section
 
@@ -39,7 +39,7 @@ Required Pre-Capstone Material:
 
 - [Picking a tech stack](tech-stacks.md)
   - [Examples](tech-stack-examples.md)
-  - In class, we will do the [Tech Stacks Research Activity](tech-stack-research.md) together
+  - In class, we will do the [Tech Stacks Research Activity](./research-activity.md) together
 
 Required Capstone Material:
 
@@ -85,7 +85,7 @@ Use the following resources to begin your research so you can make informed deci
 - Our resources on Tech Stacks
   - [Definition](tech-stacks.md)
   - [Examples](tech-stack-examples.md)
-  - [The Research Presentation](tech-stack-research.md)
+  - [The Research Presentation](./research-activity.md)
 - Talk with your classmates
 - Talk with the people around you! Mentors, TAs, instructors, family members, friends, etc.
 - Every other resource available to you!
