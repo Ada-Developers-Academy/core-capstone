@@ -34,9 +34,9 @@ Every project's goals are different, and as a result its tech stack will be diff
   * Orchestration
   * Monitoring
 
-We've already seen many technologies that fill several of these roles. For example, Rails is a **Web application framework**. It has a built-in **Web server** which we've used, however there are a number of alternatives including [Puma](http://puma.io/) which is now the default in Rails 5. What roles are filled by some of the other technologies we've used?
+We've already seen many technologies that fill several of these roles. For example, Flask is a **Web application framework**. It has a built-in **Web server** which we've used, however there are a number of alternatives including [Gunicorn](https://gunicorn.org/) which we used for Heroku. What roles are filled by some of the other technologies we've used?
 
-A couple of the technologies listed above are possibly new to you because we've not had to implement them for our projects so far. For example, both DNS hosting and SSL certificates were handled for us by Heroku when we deployed our Rails applications. In more complex deployment scenarios these, and many other, tasks must be handled by either the developers or a DevOps team working closely with them.
+A couple of the technologies listed above are possibly new to you because we've not had to implement them for our projects so far. For example, both DNS hosting and SSL certificates were handled for us by Heroku when we deployed our Flask applications. In more complex deployment scenarios these, and many other, tasks must be handled by either the developers or a DevOps team working closely with them.
 
 ### Additional Tools & Services
 
@@ -69,4 +69,4 @@ For your capstone project you will need to choose a collection of technologies t
 
 When choosing a set of technologies it can be helpful to think of it like putting together a puzzle. Each technology fits into a particular location in the stack, and it usually integrates with one or more other technologies in the stack. Think about what technologies have been used in your previous projects and how each of them have interacted with the other technologies.
 
-If you had to extend one of these projects, for example bEtsy, what kind of technology would you use? Where would it fit in the stack, and what other technologies would it integrate with? These kinds of questions usually lead developers to conduct research on what specific technologies would be most applicable based on the technologies that are already in the stack.
+If you had to extend one of these projects, for example Retro Video Store & The Retro Video Store CLI, what kind of technology would you use? Where would it fit in the stack, and what other technologies would it integrate with? These kinds of questions usually lead developers to conduct research on what specific technologies would be most applicable based on the technologies that are already in the stack.
