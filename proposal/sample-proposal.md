@@ -2,33 +2,58 @@
 
 ## Project Proposal - Suzanne Avitus
 
+## Project Name
+
+Parks for Humanity
+
+## Individual/Group
+
+Individual
+
 ## Learning Goals
 
 - Learn IOS Development
 - Learn to use a nosql database (Google Firebase)
 - Learn to use geographic data
 
-## Problem Statement
+## Project Description
 
 There are approximately 343 parks in the City of Seattle! Some are just small slivers of land, and others are vast with miles and miles of trails. Kids or newbies to Seattle need a guide to help them explore all these beautiful parks. 
 This application provides a map showing the location of all these parks and links you to the park details. When an explorer visits a park, they can "check off" that park as seen in the app to keep track of their explorations, and win badges.
 
-## Target Audience
+## Project Type
 
-This app is targetted toward Seattle residents interested in exploring Seattle parks.
+Mobile App
 
-## Trello Board
+## Main Front-end Technology
 
-[My Trello Board](https://trello.com/b/tiGVtTI1/ada-parks)
+- IOS/Swift
 
-## Technologies
+## Additional Front-end Technologies
 
-- Google Firebase (Database & backend)
-- Swift (front-end)
-- [Seattle Parks API](https://data.seattle.gov/dataset/Seattle-Parks/3qhk-qnyr)
-- Infrastructure
-    - This app will be deployed to an iPhone
-    - The backend will be hosted on Google Firebase
+- None
+
+## Main Back-end Technology
+
+- Google Firebase
+
+## Additional Back-end Technologies
+
+- Seattle Parks API
+- Google Maps API
+
+## Other Technologies
+
+- XCode
+
+## Database 
+
+- Google Firebase
+
+## Deployment Technologies
+
+- Deployed to iPhone
+- Backend on Google Firebase
 
 ## Wireframes
 
