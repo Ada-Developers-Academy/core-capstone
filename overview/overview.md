@@ -98,7 +98,7 @@ If you do not turn in this form and have an advisory 1:1 meeting in time, you ma
 
 ### Capstone Proposal Form
 
-Once you feel that your capstone concept is firm, submit your capstone concept with the [Capstone Proposal Form](TODO) by the due date.
+Once you feel that your capstone concept is firm, submit your capstone concept with the [Capstone Proposal Form](../proposal/capstone-project-proposal.md) by the due date.
 
 Then, the instructional team will review it and approve for you to start your capstone project on the first day of capstone.
 
