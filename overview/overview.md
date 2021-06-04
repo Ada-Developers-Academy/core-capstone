@@ -164,4 +164,3 @@ You'll be assigned to a three or four person team. For the duration of capstone,
 - Dog Buddy
   - [Front-End](https://github.com/cassyarchibald/dogbuddyreact) (React)
   - [Back-End](https://github.com/cassyarchibald/dogbuddymysql)
-- 
