@@ -29,6 +29,10 @@ Standards:
         Path: /overview/tech-stack-examples.md
       -
         Type: Lesson
+        UID: 1c984c7f-1229-460d-b6e8-9f23f389d2b6
+        Path: /overview/capstone-examples.md
+      -
+        Type: Lesson
         UID: 4034e39b-b978-414f-922a-c674d1c5e5e0
         Path: /overview/research-activity.md
   -
