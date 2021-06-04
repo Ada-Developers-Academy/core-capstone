@@ -157,10 +157,3 @@ You'll be assigned to a three or four person team. For the duration of capstone,
 ### Technical Guidelines
 
 - Review the information on [technology stacks](tech-stacks.md)
-
-## Example Capstones
-
-- [Altarfy by Sophie](https://github.com/Ada-C14/Altarfy)
-- Dog Buddy
-  - [Front-End](https://github.com/cassyarchibald/dogbuddyreact) (React)
-  - [Back-End](https://github.com/cassyarchibald/dogbuddymysql)

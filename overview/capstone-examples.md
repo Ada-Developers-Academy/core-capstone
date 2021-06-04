@@ -46,3 +46,11 @@ Below are a collection of Capstone examples derived from past student projects. 
 - my-irc
   - A terminal based IRC client. Users will be able to start the client, change their settings, connect to a network, and join multiple channels. They will also be able to have multiple private conversations with other users.  This solves the problem of having to use a complicated or system intensive client just to use a very simple protocol.
   - Front-End & Back-End:  Python with an IRC library
+
+
+## Example Student Capstone Repos
+
+- [Altarfy by Sophie](https://github.com/Ada-C14/Altarfy)
+- Dog Buddy
+  - [Front-End](https://github.com/cassyarchibald/dogbuddyreact) (React)
+  - [Back-End](https://github.com/cassyarchibald/dogbuddymysql)
