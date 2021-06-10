@@ -1,4 +1,4 @@
-# Accountability Groups
+# Tech Stack Group
 
 You will be assigned groups that will assist in creating mutual accountability, getting technology assistance and general support.
 
