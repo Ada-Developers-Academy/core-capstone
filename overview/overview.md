@@ -124,7 +124,6 @@ Required Pre-Capstone Material:
 
 - [Picking a tech stack](tech-stacks.md)
   - [Examples](tech-stack-examples.md)
-  - In class, we will do the [Tech Stacks Research Activity](./research-activity.md) together
 
 Required Capstone Material:
 
