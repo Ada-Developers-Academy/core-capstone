@@ -146,7 +146,7 @@ You have two tasks:
 
 1. Pre-Capstone Ideas Research:
     - Complete a [cap ]
-1. Fill out the [Capstone Concept Form](https://airtable.com/shrJhKkItdAN5DKdi) with your top idea
+1. Fill out a [Capstone Concept](../concept/capstone-concept.checkpoint.md) with your top idea
 1. Create a Plan
 
 ### Pre-Capstone Research
