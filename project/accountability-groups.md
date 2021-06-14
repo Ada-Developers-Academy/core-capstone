@@ -1,12 +1,12 @@
-# Accountability Groups
+# Tech Stack Groups
 
-You will be assigned groups that will assist in creating mutual accountability, getting technology assistance and general support.
+You will be assigned to a small group with a similar tech stack. Each group will also be assigned a Project Manager. These groups are meant to create mutual accountability, and give and recieve technology assistance along with general support.
+
+## Standups
 
 ## Weekly Demos
 
-You will be required to present your weekly progress to your capstone group.
-
-- Groups will set their own schedule, but inform their PM of the weekly time. The recommended duration is no more than one hour, so plan accordingly.
+- These demos will be set up by your PM.
 - The purpose of the demo is to show off what you have worked on during the week. This can include:
   - Features: in design, in code or completed
   - Roadblocks and struggles faced during the week
@@ -23,7 +23,3 @@ We as instructors will sort you, but the degree to which you hold one another ac
 - Weekly group retros
 - Tech-stack Slack channel
 - Trello checks with other team members
-
-## Other Notes
-
-- These groups should provide a direct support and collaboration network for you during your capstone. With that being said, keep in mind that everyone has different preferences for collaboration. Which you may be taking a break, someone else may be deep in a technical problem or issue.
