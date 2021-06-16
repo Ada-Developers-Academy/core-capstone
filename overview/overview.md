@@ -78,8 +78,12 @@ For an initial list of tutorials to consider, [feel free to start with our tutor
 You will be assigned to a small group with a similar tech stack. 
 
 You will receive your group assignment on Monday, July 26th. 
-- Each group will also have an assigned instructor who will provide support as project manager. 
-- Your PM will set group expectations, facilitate 1:1s, daily standups and weekly demos.
+- Each group will also have an assigned instructor who will provide support as project manager (PM). 
+- Your PM will set group expectations, host weekly 1:1s, and weekly demos.
+- Daily standups are also an important part of the day-to-day in tech! They ensure structure, community, and consistent communication within the group.
+  - Your PM will facilitate and model daily standups during Week 1 of capstones. These standups will start on Tuesday, July 27th.
+  - After Week 1, students are expected to take turns hosting, facilitating, taking notes, and sending notes to your PM at the end of every standup.
+  - Instructors will attend standups once/week for demos.
 
 ### Step 6: Work Time
 
