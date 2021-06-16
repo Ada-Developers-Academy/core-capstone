@@ -71,6 +71,8 @@ We highly recommend that you complete at least one tutorial by Monday, July 26th
 - Reach out to your 1:1 instructor if you feel you need the support after a tutorial or you need to discuss the relevance of the tutorial.
 - You will eventually demo your tutorial to your tech stack group.
 
+For an initial list of tutorials to consider, [feel free to start with our tutorial sites resource.](./tutorial-sites.md)
+
 ### Step 5: Tech Stack Groups & PM
 
 You will be assigned to a small group with a similar tech stack. 
