@@ -12,9 +12,9 @@ Individual
 
 ## Learning Goals
 
-- Learn IOS Development
-- Learn to use a nosql database (Google Firebase)
-- Learn to use geographic data
+- Practice creating a full stack CRUD application with front-end
+- Integrate external web APIs for geographic data
+- Integrate external Google Maps controls
 
 ## Project Description
 
@@ -23,37 +23,37 @@ This application provides a map showing the location of all these parks and link
 
 ## Project Type
 
-Mobile App
+Full stack web app, primarily targeting mobile users (UI designed to target phone dimensions)
 
 ## Main Front-end Technology
 
-- IOS/Swift
+- React
+- Bootstrap
 
 ## Additional Front-end Technologies
 
-- None
+- Google Maps control
 
 ## Main Back-end Technology
 
-- Google Firebase
+- Flask
 
 ## Additional Back-end Technologies
 
 - Seattle Parks API
-- Google Maps API
 
 ## Other Technologies
 
-- XCode
+- OAuth authentication (stretch goal)
 
 ## Database 
 
-- Google Firebase
+- PostgreSQL
 
 ## Deployment Technologies
 
-- Deployed to iPhone
-- Backend on Google Firebase
+- Front end deployed to Heroku
+- Back end deployed to Heroku
 
 ## Wireframes
 
@@ -69,6 +69,8 @@ Mobile App
 2.  the user can select a park point location, which navigates to a park details page.
 	- if the user is signed in, the park details page shows whether or not the user has been there and a date of visit, if so
 3. a user can sign into the app to see their saved data
+	- MVP treats any login attempt as successful (for the supplied user name)
+	- Stretch goal to integrate authorization using an OAuth library
 4. the user has an account details/achievements page
 	- the page shows how many parks they have visited
 	- the page shows the points or badges earned
