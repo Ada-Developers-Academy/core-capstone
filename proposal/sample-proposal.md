@@ -28,10 +28,11 @@ Full stack web app, primarily targeting mobile users (UI designed to target phon
 ## Main Front-end Technology
 
 - React
-- Bootstrap
 
 ## Additional Front-end Technologies
 
+- React Router
+- Bootstrap
 - Google Maps control
 
 ## Main Back-end Technology
