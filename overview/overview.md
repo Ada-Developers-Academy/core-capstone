@@ -1,6 +1,6 @@
 # Capstone Project
 
-The Capstone Project is the largest undertaking you'll experience in the Ada classroom. Not only is it a month long, but you will be your own product owner. It will be up to you to decide (with input from instructors, mentors, and TAs) what gets built when (and how). Your capstone should be something you will be proud to show off and something you will get to learn a lot from! 
+The Capstone Project is the largest undertaking you'll experience in the Ada classroom. Not only is it two weeks long, but you will be your own product owner. It will be up to you to decide (with input from instructors, mentors, and TAs) what gets built when (and how). Your capstone should be something you will be proud to show off and something you will get to learn a lot from! 
 
 ## Learning Goals
 
