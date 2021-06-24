@@ -1,13 +1,14 @@
 # Capstone Project
 
-The Capstone Project is the largest undertaking you'll experience in the Ada classroom. Not only is it two weeks long, but you will be your own product owner. It will be up to you to decide (with input from instructors, mentors, and TAs) what gets built when (and how). Your capstone should be something you will be proud to show off and something you will get to learn a lot from! 
+The Capstone Project is the largest undertaking you'll experience in the Ada classroom, it is two weeks long, and you will be your product owner. It will be up to you to decide (with input from instructors and TAs) what gets built, when, and how. Your capstone should be something you will be proud to show off and something you will get to learn a lot from!  
 
 ## Learning Goals
 
 - Demonstrate self-direction, time management, and independent learning
-- Learn and implement new technologies
-- Complete a product lifecycle from conception to delivery
+- Deepen and extend knowledge learned about the tools and technologies used during class 
+- Complete a product life cycle from conception to delivery, including deployment
 - Utilize agile practices learned to assist in project completion
+
 
 ## Capstone Requirements
 
@@ -17,11 +18,11 @@ The requirements for capstone are intentionally open-ended and vague. First and 
   - At least one input (i.e. specific user interactions, data)
   - Identifying an ideal user
   - At least one, ideally two, outputs (i.e. report, recommendation)
-- Students demonstrate learning a new technology
-- There is a code base for all relevant parts of the project on GitHub that the assigned PM has access to
-- Weekly 1:1 with PM to ensure consistent communication
-- If relevant, deployment is encouraged. This will be decided between you and your 1:1 instructor during the project proposal process.
-- Student presents their capstone project to C15 and Ada community
+- Students demonstrate independent research by incorporating an additional library (Python or React) or external web service. 
+- There is a code base for all relevant parts of the project on GitHub that the instructor has access to.
+- 1:1 check-ins with instructors to ensure consistent communication, and filling out the daily check-in form between July 7th-15th.
+- Deployment is required
+- Student presents their capstone project to C15 Accelerate and Ada community
 
 ## Important Dates
 
@@ -39,11 +40,19 @@ The requirements for capstone are intentionally open-ended and vague. First and 
 - August 18th at 5pm PST - Presentation link due [here](https://docs.google.com/spreadsheets/d/1ZluozTih8Jr-AxZdytRfyDV46o9DsLnz6mVCB5CT61c/edit?usp=sharing)
 - August 19th & 20th - Capstone Presentations! Schedule to come.
 
-## 7 Steps to Capstones
+## 4 Steps to Capstones
 
-### Step 1: Inspiration & Brainstorming
+### Step 1: Inspiration & Brainstorming\
 
-### Step 2: Capstone Concepts
+- Simon presented content on the 23rd about how to choose a project. You can refer to that information [here] (https://docs.google.com/presentation/d/1MgI35e7FoChKBsXdcA703Hkm9kwqrPWyGfOedSrVXGQ/edit?usp=sharing)
+Capstone Examples
+You also had the opportunity to see some capstone examples presented by C14. 
+Capstone Pitching Session
+Friday, July 2nd from 2:00 to 3:00pm PST
+Sarah, Nat, and instructors will facilitate a space for students to continue gleaning information, inspiration, and brainstorming ideas you’d like to see come to life, and skills you’d like to gain. This is also an opportunity to pitch your idea to classmates, and find a capstone partner or group, if you choose to go that route.
+
+
+### Step 2: Capstone Project Proposal
 A capstone concept is a general idea of the project you want to build, including its objective and features. 
 
 You will submit 1-3 capstone concepts by Friday, July 2nd through the Learn form. 
@@ -53,7 +62,7 @@ You will submit 1-3 capstone concepts by Friday, July 2nd through the Learn form
 
 While creating these capstone concepts, you will need to propose a tech stack for your project. [Consider starting your research by reading through some tech stack examples.](./tech-stack-examples.md)
 
-### Step 3: Capstone Project Proposal
+### Step 3: 
 
 A capstone project proposal is where you outline the project’s MVP and tech stacks. [Here is an example of a project proposal.](https://github.com/Ada-Developers-Academy/core-capstone/blob/main/proposal/sample-proposal.md) 
 
