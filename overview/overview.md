@@ -34,9 +34,9 @@ The requirements for capstone are intentionally open-ended and vague. First and 
 - Wednesday, July 28th, 11:59 pm PST:
   - Code Freeze
   - Exact timing and schedule will be communicated closer to the time.
-- Thursday, July 29, at 5 PM PST - Presentation link due [here](https://docs.google.com/spreadsheets/d/1ZluozTih8Jr-AxZdytRfyDV46o9DsLnz6mVCB5CT61c/edit?usp=sharing)
+- Thursday, July 29, at 5 PM PST:
+  - Presentation link due [here](https://docs.google.com/spreadsheets/d/1ZluozTih8Jr-AxZdytRfyDV46o9DsLnz6mVCB5CT61c/edit?usp=sharing)
 - Friday, July 30th: 
-  - Friday, July 30th: 
   - Capstones Begin
  
 
