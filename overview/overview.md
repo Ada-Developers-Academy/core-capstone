@@ -26,18 +26,18 @@ The requirements for capstone are intentionally open-ended and vague. First and 
 
 ## Important Dates
 
-- Friday, July 2nd from 2:00 to 3:00pm PST in ada.accelerate.org: 
+- Friday, July 2nd from 2:00 to 3:00pm PDT in ada.accelerate.org: 
   - Sarah, Nat, and instructors will facilitate a space for students to continue gleaning information, inspiration, and brainstorming ideas you’d like to see come to life, and skills you’d like to gain. This is also an opportunity to pitch your idea to classmates, and find a capstone partner or group, if you choose to go that route.
-- Between Wednesday, July 7th, and Thursday, July 15th:
-  - Schedule a meeting with your 1:1 instructor by this date. It is strongly encouraged to schedule the meeting during the week of July 12th.
-  - Submit your [capstone project proposal](https://airtable.com/shr3xEMBZsH0kJD8q) 24 hours in advance of your scheduled 1:1 meeting.
-- Wednesday, July 28th, 11:59 pm PST:
+- Submit two or three [capstone project proposals](https://airtable.com/shrHHrjUyFDjxZl6h) by Mon, July 12, 9 AM PDT.
+  - Between Tuesday, July 13th, and Thursday, July 15th:
+    - Your 1:1 instructor will schedule a meeting with you to discuss your proposals and approve one for your capstone
+- Wednesday, July 28th, 11:59 pm PDT:
   - Code Freeze
   - Exact timing and schedule will be communicated closer to the time.
-- Thursday, July 29, at 5 PM PST:
-  - Presentation link due [here](https://docs.google.com/spreadsheets/d/1ZluozTih8Jr-AxZdytRfyDV46o9DsLnz6mVCB5CT61c/edit?usp=sharing)
+- Thursday, July 29, at 5 PM PDT:
+  - Presentation link due [here](https://docs.google.com/spreadsheets/d/1meAI2m4pr5el0-2E1jLphK-qbFduhO940llDx-2tsD4/edit?usp=sharing)
 - Friday, July 30th: 
-  - Capstones Begin
+  - Capstones Presentations
  
 
 ## 4 Steps to Capstones
@@ -47,24 +47,26 @@ The requirements for capstone are intentionally open-ended and vague. First and 
 - Simon presented content on the 23rd about how to choose a project. 
   - You can refer to that information [here] (https://docs.google.com/presentation/d/1MgI35e7FoChKBsXdcA703Hkm9kwqrPWyGfOedSrVXGQ/edit?usp=sharing)
 Capstone Examples
- - You also had the opportunity to see some capstone examples presented by C14. 
+ - You also had the opportunity to see some capstone examples presented by former Adies. 
 Capstone Pitching Session
- - Friday, July 2nd from 2:00 to 3:00pm PST
+ - Friday, July 2nd from 2:00 to 3:00pm PDT
    - Sarah, Nat, and instructors will facilitate a space for students to continue gleaning information, inspiration, and brainstorming ideas you’d like to see come to life, and skills you’d like to gain. This is also an opportunity to pitch your idea to classmates, and find a capstone partner or group, if you choose to go that route.
 
 ### Step 2: Capstone Project Proposal
 
 A capstone project proposal is where you outline the project’s MVP and tech stacks. [Here is an example of a project proposal.](https://github.com/Ada-Developers-Academy/core-capstone/blob/accelerate/proposal/sample-proposal.md) 
 
-You will schedule a meeting with your 1:1 instructor between Wednesday, July 7th, and Thursday, July 15th 
-- You are strongly encouraged to schedule this meeting during the week of July 12th, since the following week is Interview Week. 
-- You will submit your capstone project proposal to your 1:1 instructor through this [Airtable form](https://airtable.com/shr3xEMBZsH0kJD8q) 24 hours prior to your scheduled meeting. This gives the instructor time to read over and process your proposal. One project proposal per group!
+You will make several capstone project proposals, and meet with your 1:1 instructor to review them and have one signed off.
+- You will submit your capstone project proposal to your 1:1 instructor through this [Airtable form](https://airtable.com/shr3xEMBZsH0kJD8q) by Mon, July 12, 9 AM PDT. This gives the instructor time to read over and process your proposal.
+  - Submit two or three proposals so you have a few options
+  - If you are working as a group, make sure all members are included in the proposal, and submit only one copy of each proposal per group.
+- Your instructor will schedule a meeting with you sometime between Tue 13 July, and Thu 15 July.
 - Your instructor will give you a yes or no, with feedback during your meeting. This decision is derived from reasonable evidence and confidence from the student that they will be successful in achieving their goals stated at the beginning of the proposal.
 
 ### Step 3: Work Time
 
 You will have two weeks to complete your capstone project and presentation. 
-- Code Freeze is on Wednesday, July 28th, 11:59 pm PST. 
+- Code Freeze is on Wednesday, July 28th, 11:59 pm PDT. 
 
 ### Step 4: Presentation
 
@@ -90,5 +92,5 @@ Your presentation should include and answer:
  - Optional: Exciting or interesting technologies you used, and/or Future enhancements
 
 
-Presentation link is due [here](https://docs.google.com/spreadsheets/d/1kdTl16bP9Gw3Tzfnk2v4QqhV3jEC4ynZJePc200uUl8/edit#gid=0) by Thursday, July 29, at 5 PM PST.
+Presentation link is due [here](https://docs.google.com/spreadsheets/d/1meAI2m4pr5el0-2E1jLphK-qbFduhO940llDx-2tsD4/edit?usp=sharing) by Thursday, July 29, at 5 PM PDT.
 *This is only if you are choosing the format of a fully recorded presentation. If you are doing a live presentation, please sign off on the spreadsheet.
