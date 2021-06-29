@@ -13,6 +13,10 @@ Standards:
         Path: /overview/overview.md
       -
         Type: Lesson
+        UID: 8cff0676-4023-4c8b-91e9-f419db124e27
+        Path: /overview/intro-to-capstone-session.md
+      -
+        Type: Lesson
         UID: 89ed3730-ecf9-46ce-bc82-eec96cb75e51
         Path: /overview/tech-stack-examples.md
       -
