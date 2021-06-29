@@ -20,7 +20,7 @@ The requirements for capstone are intentionally open-ended and vague. First and 
   - At least one, ideally two, outputs (i.e. report, recommendation)
 - Students demonstrate independent research by incorporating an additional library (Python or React) or external web service. 
 - There is a code base for all relevant parts of the project on GitHub that the instructor has access to.
-- 1:1 check-ins with instructors to ensure consistent communication, and filling out the daily check-in form between July 7th-15th.
+- 1:1 check-ins with instructors to ensure consistent communication, and filling out the daily check-in form between July 19th-27th.
 - Deployment is required
 - Student presents their capstone project to C15 Accelerate and Ada community
 
@@ -31,7 +31,7 @@ The requirements for capstone are intentionally open-ended and vague. First and 
 - Submit two or three [capstone project proposals](https://airtable.com/shrHHrjUyFDjxZl6h) by Mon, July 12, 9 AM PDT.
   - Between Tuesday, July 13th, and Thursday, July 15th:
     - After you’ve submitted your proposals, your instructor will check in with you on your progress during co-working time, and schedule 1:1’s with you.
-- If you are working in a group, please designate 1 person to submit 2-3 agreed-upon ideas that your group could do together.
+- If you are working in a group, please submit 2-3 agreed-upon ideas that your group could do together.
 
 - Wednesday, July 28th, 11:59 pm PDT:
   - Code Freeze
@@ -46,10 +46,12 @@ The requirements for capstone are intentionally open-ended and vague. First and 
 
 ### Step 1: Inspiration & Brainstorming
 
-- Simon presented content on the 23rd about how to choose a project. 
-  - You can refer to that information [here] (https://docs.google.com/presentation/d/1MgI35e7FoChKBsXdcA703Hkm9kwqrPWyGfOedSrVXGQ/edit?usp=sharing)
+Simon presented content on the 23rd about how to choose a project. 
+  - You can refer to that information [here](https://docs.google.com/presentation/d/1MgI35e7FoChKBsXdcA703Hkm9kwqrPWyGfOedSrVXGQ/edit?usp=sharing)
+ 
 Capstone Examples
  - You also had the opportunity to see some capstone examples presented by former Adies. 
+
 Capstone Pitching Session
  - Friday, July 2nd from 2:00 to 3:00pm PDT
    - Sarah, Nat, and instructors will facilitate a space for students to continue gleaning information, inspiration, and brainstorming ideas you’d like to see come to life, and skills you’d like to gain. This is also an opportunity to pitch your idea to classmates, and find a capstone partner or group, if you choose to go that route.
