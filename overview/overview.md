@@ -30,7 +30,9 @@ The requirements for capstone are intentionally open-ended and vague. First and 
   - Sarah, Nat, and instructors will facilitate a space for students to continue gleaning information, inspiration, and brainstorming ideas you’d like to see come to life, and skills you’d like to gain. This is also an opportunity to pitch your idea to classmates, and find a capstone partner or group, if you choose to go that route.
 - Submit two or three [capstone project proposals](https://airtable.com/shrHHrjUyFDjxZl6h) by Mon, July 12, 9 AM PDT.
   - Between Tuesday, July 13th, and Thursday, July 15th:
-    - Your 1:1 instructor will schedule a meeting with you to discuss your proposals and approve one for your capstone
+    - After you’ve submitted your proposals, your instructor will check in with you on your progress during co-working time, and schedule 1:1’s with you.
+- If you are working in a group, please designate 1 person to submit 2-3 agreed-upon ideas that your group could do together.
+
 - Wednesday, July 28th, 11:59 pm PDT:
   - Code Freeze
   - Exact timing and schedule will be communicated closer to the time.
@@ -66,6 +68,7 @@ You will make several capstone project proposals, and meet with your 1:1 instruc
 ### Step 3: Work Time
 
 You will have two weeks to complete your capstone project and presentation. 
+- Fill out the [daily check-in form](https://docs.google.com/forms/d/e/1FAIpQLScvJhc_YczSw79rs1dEQQbuSg6QrFCZ2ZPv_YMObPtoeVOf6w/viewform?usp=sf_link) between July 19 and 27 by noon PST, so instructors can track and support your progress
 - Code Freeze is on Wednesday, July 28th, 11:59 pm PDT. 
 
 ### Step 4: Presentation
