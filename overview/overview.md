@@ -26,7 +26,7 @@ The requirements for capstone are intentionally open-ended and vague. First and 
 
 ## Important Dates
 
-- Friday, July 2nd from 2:00 to 3:00pm PDT in ada.accelerate.org: 
+- Friday, July 2nd from 1:00 to 2:00pm PDT in ada.accelerate.org: 
   - Sarah, Nat, and instructors will facilitate a space for students to continue gleaning information, inspiration, and brainstorming ideas you’d like to see come to life, and skills you’d like to gain. This is also an opportunity to pitch your idea to classmates, and find a capstone partner or group, if you choose to go that route.
 - Submit two or three [capstone project proposals](https://airtable.com/shrHHrjUyFDjxZl6h) by Mon, July 12, 9 AM PDT.
   - Between Tuesday, July 13th, and Thursday, July 15th:
