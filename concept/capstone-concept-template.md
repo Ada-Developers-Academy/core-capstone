@@ -7,6 +7,8 @@ Copy and paste this document into a [gist](https://gist.github.com/) and then ed
 
 # Capstone Concept - AUTHOR NAME
 
+## Team members (Leave blank for none)
+
 ## Problem Statement #1
 
 Description of the problem the proposed capstone project would address.
