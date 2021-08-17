@@ -13,7 +13,7 @@
 
 ##### !question
 
-Please submit a link to your capstone repo(s).  You an separate multiple repo links with spaces.
+Please submit a link to your capstone repo(s).  You can separate multiple repo links with spaces.
 
 ##### !end-question
 
