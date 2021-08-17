@@ -34,3 +34,18 @@ Standards:
         Type: Checkpoint
         UID: fc7f5574-f014-47d1-bed1-8cc6a3164ae4
         Path: /concept/capstone-concept.checkpoint.md
+  -
+    Title: Capstone Submission
+    Description: "Capstone README & Repo Submission"
+    UID: 7f4549fc-ff34-414d-922c-99bdd997fea2
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 4733ae4c-3a4e-4191-b444-3901b168abea
+        Path: /capstone-submission/readme-example.md
+      -
+        Type: Checkpoint
+        UID: 0ec2d15f-dc86-416e-bca2-aeef36957956
+        Path: /capstone-submission/capstone-submission.checkpoint.md
