@@ -21,7 +21,7 @@ Submit a link to a gist containing your 1-3 capstone concepts.  Your gist should
 
 ##### !placeholder
 
-Link to your PR
+Link to your gist
 
 ##### !end-placeholder
 
