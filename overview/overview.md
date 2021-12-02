@@ -91,7 +91,7 @@ Code Freeze is on Tuesday, February 15th, at 5pm PST.
 
 ### Step 7: Presentation
 
-Submit recorded project presentation link [here] (https://docs.google.com/spreadsheets/d/1L7ChcHwnQCVuwkWr8WqjUNkoSmcA5S3Fxuucw94CQwk/edit) on Wednesday, February 16th, at 5pm PST.
+Submit recorded project presentation link [here](https://docs.google.com/spreadsheets/d/1L7ChcHwnQCVuwkWr8WqjUNkoSmcA5S3Fxuucw94CQwk/edit?usp=sharing) on Wednesday, February 16th, at 5pm PST.
 *This is only if you are choosing the format of a fully recorded presentation. If you are doing a live presentation, please indicate so on the spreadsheet.
 
 
