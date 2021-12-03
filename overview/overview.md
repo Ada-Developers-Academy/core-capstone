@@ -29,7 +29,7 @@ The requirements for capstone are intentionally open-ended and vague. First and 
 - Find-A-Partner Session
   - Seattle: Monday, December 13th, from 10 to 10:45am PST
   - Digital: Monday, December 13th, from 11 to 12pm PST
-- By Friday, Dec 17 at 9:00am PST: Submit 1-3 Capstone Concepts here
+- By Friday, Dec 17 at 9:00am PST: Submit 1-3 Capstone Concepts in Learn
 - By Friday, Dec 23rd at 5pm PST: Submit Capstone Project Proposal [here.](https://airtable.com/shrNtKumBPUi0BSv9) and book meeting with 1:1 instructor for the first week of January
 - By Monday, January 24th: Complete at least one tutorial
 - Monday, January 24th to Tuesday, February 15th: Capstone work time
@@ -50,7 +50,7 @@ The requirements for capstone are intentionally open-ended and vague. First and 
 ### Step 2: Capstone Concepts
 A capstone concept is a general idea of the project you want to build, including its objective and features. 
 
-You will submit 1-3 capstone concepts by Friday, December 17th at 9am PST through the Learn form. 
+You will submit 1-3 capstone concepts by Friday, December 17th at 9am PST through Learn. 
 - If your 1:1 instructor has further questions about your capstone concepts, they will reach out to talk more. 
 - Otherwise, they will provide feedback, and give you the thumbs up by Tuesday, December 21st. 
 - You will then choose one concept and create your capstone project proposal. 
