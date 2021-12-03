@@ -59,7 +59,7 @@ While creating these capstone concepts, you will need to propose a tech stack fo
 
 ### Step 3: Capstone Project Proposal
 
-A capstone project proposal is where you outline the project’s MVP and tech stacks. [Here is an example of a project proposal.](https://github.com/Ada-Developers-Academy/core-capstone/blob/main/proposal/sample-proposal.md) 
+A capstone project proposal is where you outline the project’s MVP (Minimal Viable Product) and tech stacks. [Here is an example of a project proposal.](https://github.com/Ada-Developers-Academy/core-capstone/blob/main/proposal/sample-proposal.md) 
 
 - You will submit your capstone project proposal through [this link](https://airtable.com/shrNtKumBPUi0BSv9) by Thursday, December 23rd. One project proposal per group!
 - You will schedule a meeting with your 1:1 instructor during the week of January 3rd. 
