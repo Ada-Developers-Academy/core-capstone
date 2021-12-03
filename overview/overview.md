@@ -21,7 +21,7 @@ The requirements for capstone are intentionally open-ended and vague. First and 
 - There is a code base for all relevant parts of the project on GitHub that the assigned PM has access to
 - Weekly 1:1 with PM to ensure consistent communication
 - If relevant, deployment is encouraged. This will be decided between you and your 1:1 instructor during the project proposal process.
-- Student presents their capstone project to C15 and Ada community
+- Student presents their capstone project to C16 and Ada community
 
 ## Important Dates
 
