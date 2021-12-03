@@ -26,16 +26,21 @@ The requirements for capstone are intentionally open-ended and vague. First and 
 ## Important Dates
 
 - Wednesday, December 8th, from 5 to 6pm PST: Capstone Examples with alum
-- Monday, December 13th, from 10 to 10:45am PST: Find-A-Partner Session
+- Find-A-Partner Session
+  - Seattle: Monday, December 13th, from 10 to 10:45am PST
+  - Digital: Monday, December 13th, from 11 to 12pm PST
 - By Friday, Dec 17 at 9:00am PST: Submit 1-3 Capstone Concepts here
-- By Friday, Dec 23rd at 5pm PST: Submit Capstone Project Proposal here and book meeting with 1:1 instructor for the first week of January
+- By Friday, Dec 23rd at 5pm PST: Submit Capstone Project Proposal [here.](https://airtable.com/shrNtKumBPUi0BSv9) and book meeting with 1:1 instructor for the first week of January
 - By Monday, January 24th: Complete at least one tutorial
 - Monday, January 24th to Tuesday, February 15th: Capstone work time
 - Monday, January 24th: Receive tech stack group and PM assignment
 - Tuesday, January 25th: First standup with tech stack group
 - TBD: Optional Capstone Presentation Q+A 
 - Tuesday, February 15th, at 5pm PST: Code Freeze
-- Wednesday, February 16th, at 5pm PST: Submit project presentation link here. If you are doing a live demo, please indicate that in the document.
+- Wednesday, February 16th, at 5pm PST
+  - Seattle campus: submit project presentation link [here.](https://docs.google.com/spreadsheets/d/1L7ChcHwnQCVuwkWr8WqjUNkoSmcA5S3Fxuucw94CQwk/edit#gid=0)
+  - Digital campus: submit project presentation link [here.](https://docs.google.com/spreadsheets/d/1mt-npaEN_mbw8VKJv2L_v9dXUAtnYZokZuuPbmyTq_U/edit?usp=sharing)
+  - If you are doing a live demo, please indicate that in the document.
 - Thursday, February 17th, and Friday, February 18th: Capstone Presentations! Schedule to come.
 
 ## 7 Steps to Capstones
@@ -56,7 +61,7 @@ While creating these capstone concepts, you will need to propose a tech stack fo
 
 A capstone project proposal is where you outline the project’s MVP and tech stacks. [Here is an example of a project proposal.](https://github.com/Ada-Developers-Academy/core-capstone/blob/main/proposal/sample-proposal.md) 
 
-- You will submit your capstone project proposal through this link by Thursday, December 23rd. One project proposal per group!
+- You will submit your capstone project proposal through [this link](https://airtable.com/shrNtKumBPUi0BSv9) by Thursday, December 23rd. One project proposal per group!
 - You will schedule a meeting with your 1:1 instructor during the week of January 3rd. 
 - During your meeting, your instructor will give you a yes or no, with feedback. When making this decision, instructors are looking for evidence and confidence from the student that they will be successful in achieving their capstone goals.
 
@@ -91,9 +96,10 @@ Code Freeze is on Tuesday, February 15th, at 5pm PST.
 
 ### Step 7: Presentation
 
-Submit recorded project presentation link [here](https://docs.google.com/spreadsheets/d/1L7ChcHwnQCVuwkWr8WqjUNkoSmcA5S3Fxuucw94CQwk/edit?usp=sharing) on Wednesday, February 16th, at 5pm PST.
+By Wednesday, February 16th, at 5pm PST:
+- Seattle campus: submit project presentation link [here.](https://docs.google.com/spreadsheets/d/1L7ChcHwnQCVuwkWr8WqjUNkoSmcA5S3Fxuucw94CQwk/edit#gid=0)
+- Digital campus: submit project presentation link [here.](https://docs.google.com/spreadsheets/d/1mt-npaEN_mbw8VKJv2L_v9dXUAtnYZokZuuPbmyTq_U/edit?usp=sharing)
 *This is only if you are choosing the format of a fully recorded presentation. If you are doing a live presentation, please indicate so on the spreadsheet.
-
 
 Capstone presentations will be on Thursday, 2/17 and Friday, 2/18. Exact timing and schedule will be communicated closer to the time.
 
