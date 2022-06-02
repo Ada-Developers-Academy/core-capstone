@@ -15,7 +15,7 @@
 
 Submit a link to a gist containing your 1-3 capstone concepts.  Your gist should be a markdown document following the [capstone concept template](capstone-concept-template.md)
 
-* [Example Capstone Concept](https://gist.github.com/CheezItMan/e86153829aa2e407499171eff05581b6)
+* [Example Capstone Concept](https://gist.github.com/ada-instructors/ea5cbefd68683fc43ba0d76aa4650828)
 
 ##### !end-question
 
