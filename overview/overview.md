@@ -34,11 +34,12 @@ The requirements for capstone are intentionally open-ended and vague. First and 
   - Seattle: By Friday, June 17 at 5:00 PM PST
   - Digital/Atlanta: By Friday, June 17 at 9:30 AM PST
 - Capstone Project Proposal Due
-  - Monday, June 27 at 5:00 PM PST 
+  - Seattle: Monday, June 27 at 5:00 PM PST 
+  - Digital/Atlanta: Monday, July 4 at 5:00 PM PST
 - Receive tech stack group and PM assignment
   - Monday, July 18 
 - Complete at least one tutorial
-  - By Monday, July 25 
+  - By Monday, July 25 (if possible)
 - Capstone work time
   - Seattle: Monday, July 25 to August 16
   - Digital/Atlanta: Monday, July 25 to August 15
