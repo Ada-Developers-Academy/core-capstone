@@ -21,40 +21,42 @@ The requirements for capstone are intentionally open-ended and vague. First and 
 - There is a code base for all relevant parts of the project on GitHub that the assigned PM has access to.
 - Weekly 1:1 with PM to ensure consistent communication
 - If relevant, deployment is encouraged. This will be decided between you and your 1:1 instructor during the project proposal process.
-- Student presents their capstone project to C17 and the Ada community.
+- Student presents their capstone project to C18 and the Ada community.
 
 ## Important Dates
 
 - Optional Capstone Examples session
-  - Tuesday, June 7 from 3 to 4 PM PST
+  - A18 and D18: Wednesday, December 7 from 1 to 2 PM PST
+  - S18: Tuesday, December 6 from 2 to 3 PM PST
 - Find-A-Partner Session
-  - Seattle: Tuesday, June 14 from 2 to 3 PM PST (in person)
-  - Digital/Atlanta: Tuesday, June 14 from 11:15 AM to 12 PM PST
-- Submit 1-3 Capstone Concepts in Learn
-  - Seattle: By Friday, June 17 at 5:00 PM PST
-  - Digital/Atlanta: By Friday, June 17 at 9:30 AM PST
+  - A18: Tuesday, December 13 from 1 to 2 PM EST
+  - D18: Monday, December 12 from 1 to 2 PM PST
+  - S18: Tuesday, December 13 from 2 to 3 PM PST
+- Submit 1-3 Capstone Concepts in Learn 
+  - A18 and D18: Friday, December 16 at 9:30 AM EST and PST, respectively
+  - S18: Friday, December 16 at 5:00 PM PST
 - Capstone Project Proposal Due
-  - Seattle: Monday, June 27 at 5:00 PM PST 
-  - Digital/Atlanta: Monday, July 4 at 5:00 PM PST
+  - A18 and D18: Tuesday, January 3 at 9:30 AM EST and PST, respectively
+  - S18: Friday, January 6 at 5:00 PM PST
 - Receive tech stack group and PM assignment
-  - Monday, July 18 
+  - Tuesday, Jan 17
 - Complete at least one tutorial
-  - By Monday, July 25 (if possible)
+  - By Monday, January 23 (if possible)
 - Capstone work time
-  - Seattle: Monday, July 25 to August 16
-  - Digital/Atlanta: Monday, July 25 to August 15
+  - A18 and D18: Monday, January 23 - Monday, February 13
 - Optional Capstone Presentation Q+A 
-  - Monday, August 8, time TBD
+  - A18 and D18: Monday, February 6, time TBD 
+  - S18: Thursday, February 9, time TBD
 - Code Freeze
-  - Seattle: Tuesday, August 16 at 5 PM PST
-  - Digital/Atlanta: Monday, August 15 at 5 PM PST
+  - A18 and D18: Monday, February 13 at 11:59 PM EST and PST, respectively
+  - S18: Tuesday, February 14 at 5:00 PM PST
 - Submit project presentation link 
-  - Seattle: Wednesay, August 17 at 5 PM PST
-  - Digital/Atlanta: Tuesday, August 16 at 5 PM PST
+  - A18 and D18: Tuesday, February 14 at 5:00 PM EST and PST, respectively
+  - S18: Wednesday, February 15 at 5:00 PM PST
   - If you are doing a live demo, please indicate that in the document.
 - Capstone Presentations 
-  - Seattle: Thursday, August 18 and Friday, August 19; times TBD
-  - Digital/Atlanta: Wednesday, August 17 - Friday, August 19; times TBD
+  - A18 and D18: Wednesday, February 15 - Friday, February 17; times TBD
+  - S18: Thursday, February 16
 
 ## 7 Steps to Capstones
 - Step 1: Inspiration & Brainstorming
@@ -66,5 +68,6 @@ The requirements for capstone are intentionally open-ended and vague. First and 
 - Step 7: Presentation
 
 ## Intro to Capstones Slide Deck
-- [Digital/Atlanta](https://docs.google.com/presentation/d/1gISI43UC7FeXWqz8swpndqio171dcDNnNu2wjv6AgRw/edit#slide=id.p7)
-- [Seattle](https://drive.google.com/file/d/1S64HbCEKu0OGzhA2EAeW9ifA2UissWFl/view)
+- [A18](https://docs.google.com/presentation/d/1G6lpomkYAANKi8xvrfowDDr054KBKdWvJsND8LIL-LY/edit?usp=sharing) 
+- [D18](https://docs.google.com/presentation/d/1ruT193Wqaom-3h0q9DTnsvAOHH-gYEVK6-pCHejRBM8/edit?usp=sharing)
+- [Seattle]
