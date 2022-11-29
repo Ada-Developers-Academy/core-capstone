@@ -44,6 +44,7 @@ The requirements for capstone are intentionally open-ended and vague. First and 
   - By Monday, January 23 (if possible)
 - Capstone work time
   - A18 and D18: Monday, January 23 - Monday, February 13
+  - S18: Tuesday, January 24 - Tuesday, February 14
 - Optional Capstone Presentation Q+A 
   - A18 and D18: Monday, February 6, time TBD 
   - S18: Thursday, February 9, time TBD
