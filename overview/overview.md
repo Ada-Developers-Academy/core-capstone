@@ -31,7 +31,7 @@ The requirements for capstone are intentionally open-ended and vague. First and 
 - Find-A-Partner Session
   - A18: Tuesday, December 13 from 1 to 2 PM EST
   - D18: Monday, December 12 from 1 to 2 PM PST
-  - S18: Tuesday, December 13 from 2 to 3 PM PST
+  - S18: Tuesday, December 13 from 2 to 3 PM PST 
 - Submit 1-3 Capstone Concepts in Learn 
   - A18 and D18: Friday, December 16 at 9:30 AM EST and PST, respectively
   - S18: Friday, December 16 at 5:00 PM PST
@@ -47,17 +47,17 @@ The requirements for capstone are intentionally open-ended and vague. First and 
   - S18: Tuesday, January 24 - Tuesday, February 14
 - Optional Capstone Presentation Q+A 
   - A18 and D18: Monday, February 6, time TBD 
-  - S18: Thursday, February 9, time TBD
+  - S18: Thursday, February 9, 10:00 AM - 12:00 PM PST
 - Code Freeze
   - A18 and D18: Monday, February 13 at 11:59 PM EST and PST, respectively
   - S18: Tuesday, February 14 at 5:00 PM PST
 - Submit project presentation link 
   - A18 and D18: Tuesday, February 14 at 5:00 PM EST and PST, respectively
-  - S18: Wednesday, February 15 at 5:00 PM PST
+  - S18: Wednesday, February 15 at 4:00 PM PST
   - If you are doing a live demo, please indicate that in the document.
 - Capstone Presentations 
   - A18 and D18: Wednesday, February 15 - Friday, February 17; times TBD
-  - S18: Thursday, February 16
+  - S18: Thursday, February 16 and Friday, February 17, times TBD
 
 ## 7 Steps to Capstones
 - Step 1: Inspiration & Brainstorming
