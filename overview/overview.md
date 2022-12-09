@@ -71,4 +71,4 @@ The requirements for capstone are intentionally open-ended and vague. First and 
 ## Intro to Capstones Slide Deck
 - [A18](https://docs.google.com/presentation/d/1G6lpomkYAANKi8xvrfowDDr054KBKdWvJsND8LIL-LY/edit?usp=sharing) 
 - [D18](https://docs.google.com/presentation/d/1ruT193Wqaom-3h0q9DTnsvAOHH-gYEVK6-pCHejRBM8/edit?usp=sharing)
-- [Seattle]
+- [S18](https://docs.google.com/presentation/d/1l_-Vt0nwxXqJ_1zUMLLcOQdvr0s_itphWhJ_yzie8s0/edit?usp=sharing)
