@@ -39,25 +39,27 @@ The requirements for capstone are intentionally open-ended and vague. First and 
   - A18 and D18: Tuesday, January 3 at 9:30 AM EST and PST, respectively
   - S18: Friday, January 6 at 5:00 PM PST
 - Receive tech stack group and PM assignment
-  - Tuesday, Jan 17
+  - A18 and D18: Tuesday, Jan 17
+  - S18: Week of January 17
 - Complete at least one tutorial
-  - By Monday, January 23 (if possible)
+  - A18 and D18: By Monday, January 23 (if possible)
+  - S18: Optional
 - Capstone work time
   - A18 and D18: Monday, January 23 - Monday, February 13
   - S18: Monday, January 23 - Tuesday, February 14
 - Optional Capstone Presentation Q+A 
   - A18 and D18: Monday, February 6, time TBD 
-  - S18: Thursday, February 9, 10:00 AM - 12:00 PM PST
+  - S18: Office hours - Thursday, February 9, 10:00 AM - 12:00 PM PST
 - Code Freeze
   - A18 and D18: Monday, February 13 at 11:59 PM EST and PST, respectively
   - S18: Tuesday, February 14 at 5:00 PM PST
-- Submit project presentation link 
+- Submit project presentation link/information
   - A18 and D18: Tuesday, February 14 at 5:00 PM EST and PST, respectively
   - S18: Wednesday, February 15 at 4:00 PM PST
   - If you are doing a live demo, please indicate that in the document.
 - Capstone Presentations 
   - A18 and D18: Wednesday, February 15 - Friday, February 17; times TBD
-  - S18: Thursday, February 16 and Friday, February 17, times TBD
+  - S18 (in-person): Thursday, February 16 and Friday, February 17, times TBD
 
 ## 7 Steps to Capstones
 - Step 1: Inspiration & Brainstorming
