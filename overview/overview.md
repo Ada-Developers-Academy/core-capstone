@@ -36,7 +36,7 @@ The requirements for capstone are intentionally open-ended and vague. First and 
   - A18 and D18: Friday, December 16 at 9:30 AM EST and PST, respectively
   - S18: Friday, December 16 at 5:00 PM PST
 - Capstone Project Proposal Due
-  - A18 and D18: Tuesday, January 3 at 9:30 AM EST and PST, respectively
+  - A18 and D18: Tuesday, January 5 at 9:30 AM EST and PST, respectively
   - S18: Friday, January 6 at 5:00 PM PST
 - Receive tech stack group and PM assignment
   - A18 and D18: Tuesday, Jan 17
