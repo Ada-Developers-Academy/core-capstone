@@ -38,7 +38,7 @@ The requirements for capstone are intentionally open-ended and vague. First and 
 - Receive tech stack group and PM assignment
   - Monday, February 6
 - Capstone work time
-  - Between Moday, February 13 to Tuesday, February 21
+  - Between Monday, February 13 to Tuesday, February 21
 - Code Freeze
   - Tuesday, February 21 at 11:59 PM PST
 - Submit project presentation link 
