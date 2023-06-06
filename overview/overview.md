@@ -23,44 +23,6 @@ The requirements for capstone are intentionally open-ended and vague. First and 
 - If relevant, deployment is encouraged. This will be decided between you and your 1:1 instructor during the project proposal process.
 - Student presents their capstone project to C18 and the Ada community.
 
-## Important Dates
-
-- Optional Capstone Examples session
-  - A18 and D18: Wednesday, December 7 from 1 to 2 PM PST
-  - S18: Tuesday, December 6 from 2 to 3 PM PST
-- Find-A-Partner Session
-  - A18: Tuesday, December 13 from 1 to 2 PM EST
-  - D18: Monday, December 12 from 1 to 2 PM PST
-  - S18: Tuesday, December 13 from 2 to 3 PM PST 
-- Submit 1-3 Capstone Concepts in Learn 
-  - A18 and D18: Friday, December 16 at 9:30 AM EST and PST, respectively
-  - S18: Friday, December 16 at 5:00 PM PST
-- Capstone Project Proposal Due
-  - A18 and D18: Tuesday, January 5 at 9:30 AM EST and PST, respectively
-  - S18: Friday, January 6 at 5:00 PM PST
-- Receive tech stack group and PM assignment
-  - A18 and D18: Tuesday, Jan 17
-  - S18: Week of January 17
-- Complete at least one tutorial
-  - A18 and D18: By Monday, January 23 (if possible)
-  - S18: Optional
-- Capstone work time
-  - A18 and D18: Monday, January 23 - Monday, February 13
-  - S18: Monday, January 23 - Tuesday, February 14
-- Optional Capstone Presentation Q+A 
-  - A18 and D18: Monday, February 6, time TBD 
-  - S18: Office hours - Thursday, February 9, 10:00 AM - 12:00 PM PST
-- Code Freeze
-  - A18 and D18: Monday, February 13 at 11:59 PM EST and PST, respectively
-  - S18: Tuesday, February 14 at 5:00 PM PST
-- Submit project presentation link/information
-  - A18 and D18: Tuesday, February 14 at 5:00 PM EST and PST, respectively
-  - S18: Wednesday, February 15 at 4:00 PM PST
-  - If you are doing a live demo, please indicate that in the document.
-- Capstone Presentations 
-  - A18 and D18: Wednesday, February 15 - Friday, February 17; times TBD
-  - S18 (in-person): Thursday, February 16 and Friday, February 17, times TBD
-
 ## 7 Steps to Capstones
 - Step 1: Inspiration & Brainstorming
 - Step 2: Capstone Concepts
@@ -71,6 +33,6 @@ The requirements for capstone are intentionally open-ended and vague. First and 
 - Step 7: Presentation
 
 ## Intro to Capstones Slide Deck
-- [A18](https://docs.google.com/presentation/d/1G6lpomkYAANKi8xvrfowDDr054KBKdWvJsND8LIL-LY/edit?usp=sharing) 
-- [D18](https://docs.google.com/presentation/d/1ruT193Wqaom-3h0q9DTnsvAOHH-gYEVK6-pCHejRBM8/edit?usp=sharing)
-- [S18](https://docs.google.com/presentation/d/1l_-Vt0nwxXqJ_1zUMLLcOQdvr0s_itphWhJ_yzie8s0/edit?usp=sharing)
+- [A19](https://drive.google.com/file/d/1gnvPF2CFvnhwrPs6RNbWHtUE3FCT71MU/view?usp=sharing) 
+- [D19](https://docs.google.com/presentation/d/1kl8RDit-DGnEqzDexGFTTZ9OfQP0lSxgWJJTvaKz68A/edit?usp=sharing)
+- [S19](https://drive.google.com/file/d/1VSzFURT4UaZ29Kpl22WwdItQ-F_UV0TN/view?usp=sharing)
