@@ -33,6 +33,4 @@ The requirements for capstone are intentionally open-ended and vague. First and 
 - Step 7: Presentation
 
 ## Intro to Capstones Slide Deck
-- [A19](https://drive.google.com/file/d/1gnvPF2CFvnhwrPs6RNbWHtUE3FCT71MU/view?usp=sharing) 
-- [D19](https://docs.google.com/presentation/d/1kl8RDit-DGnEqzDexGFTTZ9OfQP0lSxgWJJTvaKz68A/edit?usp=sharing)
-- [S19](https://drive.google.com/file/d/1VSzFURT4UaZ29Kpl22WwdItQ-F_UV0TN/view?usp=sharing)
+- [C22](https://docs.google.com/presentation/d/19gc3M05w3x-O92g8sopq6t4H_P1zVKAAwpSGIoJAq2c/edit?usp=sharing) 
