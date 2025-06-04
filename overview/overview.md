@@ -31,6 +31,3 @@ The requirements for capstone are intentionally open-ended and vague. First and 
 - Step 5: Tutorial Phase
 - Step 6: Work Time
 - Step 7: Presentation
-
-## Intro to Capstones Slide Deck
-- [C22](https://docs.google.com/presentation/d/19gc3M05w3x-O92g8sopq6t4H_P1zVKAAwpSGIoJAq2c/edit?usp=sharing) 
