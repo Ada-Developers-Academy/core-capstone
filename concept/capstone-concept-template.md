@@ -1,10 +1,13 @@
 # Capstone Concept Template
 
+## Capstone Concept Template Document
+
+Copy and paste this document into a [gist](https://gist.github.com/), edit it to create your capstone concept document, and then **save it as a markdown file** by appending the file with the `.md` file extension.  
+
+This document is an example with the minimum content required for your capstone concept deliverable.  You are free to add further content to help you arrive at your capstone.
+
+
 ```markdown
-# Capstone Concept Template Document
-
-Copy and paste this document into a [gist](https://gist.github.com/) and then edit it to create your capstone concept document.  This document is an example with the minimum content required for your capstone concept deliverable.  You are free to add further content to help you arrive at your capstone.
-
 # Capstone Concept - AUTHOR NAME
 
 ## Team members (Leave blank for none)
